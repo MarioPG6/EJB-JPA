@@ -11,7 +11,6 @@ El desarrollo se basa en una aplicación web que permite a los usuarios realizar
 
 #### Diseño de la Interfaz de Usuario:
 - Uso de JSP y HTML para la creación de vistas dinámicas.
-- Estilización mediante CSS para mejorar la experiencia del usuario.
 - Implementación de formularios para la inserción y modificación de datos.
 
 #### Manejo de Base de Datos:
@@ -36,7 +35,9 @@ El desarrollo se basa en una aplicación web que permite a los usuarios realizar
 4. Tiene la opción de eliminar un registro con un solo clic.
 
 ## Imágenes de Funcionamiento
-(Aquí se pueden agregar capturas de pantalla de la aplicación en funcionamiento).
+![image](https://github.com/user-attachments/assets/fe25ee89-a8ce-44bc-8110-995649f5083a)
+![image](https://github.com/user-attachments/assets/ef46d9d4-8737-49c8-b38d-5144c30c75c5)
+
 
 ## Conclusión
 Este proyecto demostró la aplicación de conceptos fundamentales del desarrollo web en Java, incluyendo el uso de Servlets, JSP y Apache Derby. Se logró una aplicación funcional que permite gestionar registros de manera eficiente a través de una interfaz web dinámica.
